@@ -1,0 +1,8 @@
+# 系统杂项
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 本地预览/编辑产物
+*.log
+.cache/
